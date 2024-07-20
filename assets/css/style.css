@@ -13,13 +13,14 @@ section {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-image: url(/assets/images/CHIMPZ\ \ hero\ section.png);
+        background-size: cover;
+        background-repeat: no-repeat;
 }
 
 body {
     color: #000000;
-    background-image: url(/assets/images/CHIMPZ\ \ hero\ section.png);
-    background-size: cover;
-    background-repeat: no-repeat;
+    
 }
 
 .container {
